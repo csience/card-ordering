@@ -1,6 +1,15 @@
 {
     "name": "csience/ice-card-sys",
+    "description": "Order form system for cards.",
+    "type": "library",
     "require": {
         "monolog/monolog": "1.0.*"
-    }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michael Kang",
+            "email": "mkanger@me.com"
+        }
+    ]
 }
