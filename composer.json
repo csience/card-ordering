@@ -1,6 +1,6 @@
 {
     "name": "csience/ice-card-sys",
     "require": {
-        "csience/ice-card-sys": "dev-master"
+        "monolog/monolog": "1.0.*"
     }
 }
