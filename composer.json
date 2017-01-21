@@ -1,11 +1,5 @@
 {
     "name": "csience/ice-card-sys",
-    "repositories": [
-        {
-	    "type": "vcs",
-            "url": "https://github.com/csience/ice-card-sys"
-	}
-    ],
     "require": {
         "csience/ice-card-sys": "dev-master"
     }
